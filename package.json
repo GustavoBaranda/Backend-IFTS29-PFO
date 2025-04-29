@@ -1,0 +1,16 @@
+{
+  "name": "gestion-pedidos",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de pedidos con simulación de procesos asincrónicos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "BARANDA CABRERA, Gustavo Daniel",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
